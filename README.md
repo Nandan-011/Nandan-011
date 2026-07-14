@@ -8,8 +8,9 @@
   BEFORE COMMITTING:
    1. Upload banner-light.svg + banner-dark.svg to this repo
       (root or /assets). The <picture> block picks light/dark automatically.
-   2. Replace  YOUR_LINKEDIN_HANDLE  (2 spots) with your real handle.
-   3. Add a snake.svg workflow (see checklist at bottom) or delete the snake block.
+   2. Add a snake.svg workflow (see checklist) or delete the snake block.
+   Your circular profile photo = your GitHub account AVATAR (Settings > Profile).
+   GitHub auto-crops it to a circle on your profile page — nothing to add here.
 -->
 
 <!-- ================= HERO BANNER ================= -->
@@ -28,17 +29,30 @@
   <img src="https://komarev.com/ghpvc/?username=Nandan-011&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= INTRO ================= -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi, I'm Nandan
 
-> **Software & AI/ML engineer** and final-year B.Tech CSE (AI/ML) student who likes turning ideas into things that actually ship. I work across the stack — React/Node front-to-back — and train models when the problem calls for it. My proudest work is real: a Salesforce internship, a published-track research paper, and projects I built end-to-end.
+<p>
+  🌐 <strong>Andhra Pradesh, India</strong> &nbsp;|&nbsp; 🎯 Open to Software / AI-ML / Full-stack roles
+</p>
 
-- 🔭 Currently building **full-stack web apps** and **applied ML** projects
-- 🌱 Deepening **cloud, system design, and secure coding**
-- 💬 Ask me about **React, Node.js, Python, TensorFlow, or Salesforce (Apex/LWC)**
-- 🧩 I value clean, readable code over clever code
-- 📫 Reach me at **nandankonkeni97304@gmail.com**
-- 🎯 **Open to Software / AI-ML / Full-stack roles & internships**
+*Full-Stack Developer&nbsp; | &nbsp;AI/ML Engineer&nbsp; | &nbsp;React · Node · Python · TensorFlow*
+
+> **Software & AI/ML engineer** and final-year B.Tech CSE (AI/ML) student who likes turning ideas into things that actually ship. I work across the stack — React/Node front-to-back — and train models when the problem calls for it. My proudest work is real: a Salesforce internship, a research-track paper, and projects I built end-to-end.
+
+```python
+class Nandan:
+    def __init__(self):
+        self.role      = "Software & AI/ML Engineer"
+        self.education = "B.Tech CSE (AI/ML) @ SRM University AP"
+        self.stack     = ["React", "Node", "Python", "TensorFlow"]
+        self.focus     = "Full-stack web + applied ML"
+        self.principle = "Clean, readable code over clever code"
+        self.open_to   = "SDE / AI-ML / Full-stack roles & internships"
+
+    def say_hi(self):
+        print("Thanks for visiting — let's build something.")
+```
 
 <br>
 
@@ -47,39 +61,31 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,c,cpp&theme=light)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css&theme=light)](https://skillicons.dev)
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light)](https://skillicons.dev)
+&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=light)](https://skillicons.dev)
+&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Cloud & Tools**
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel&theme=light)](https://skillicons.dev)
+&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
@@ -153,6 +159,13 @@ Responsive, animated portfolio site — designed, built, and deployed live on Ve
 |---|---|---|
 | **Oracle Certified Professional, Java SE 17 Developer** | Oracle | `ID: 327940966OCPJSE17` |
 | **MongoDB Associate Developer** | MongoDB, Inc. | Verified on Credly |
+
+<br>
+
+<!-- ================= FUN FACT ================= -->
+## 💡 Fun Fact
+
+> I built a full **NLP resume screener that runs entirely in the browser** — no backend, no ML libraries — just TF-IDF and cosine similarity written from scratch. I like understanding things from first principles, not just importing them.
 
 <br>
 
